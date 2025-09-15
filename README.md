@@ -1,7 +1,7 @@
-# Grafika-Modele 3D-Aniamcja
+### Grafika-Modele 3D-Aniamcja
 
-### Grafiki
+# Grafiki
 
-### Modelowanie 3D
+# Modelowanie 3D
 
-### Animacja
+# Animacja
